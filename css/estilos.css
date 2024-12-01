@@ -172,6 +172,9 @@ iframe{
     .grid {
         grid-template-columns: 1fr;
     }
+    .menu {
+        padding: 10px;
+    }
 }
 
 /*codigo nuevo de la página web*/
